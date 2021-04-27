@@ -1,6 +1,4 @@
-## Exercícios extra 🌟
- 
-### Música favorita
+### Exercício Música favorita
 Você deverá criar uma página com no minímo os seguintes elementos:
 
 - Uma imagem da banda/artista favorito
