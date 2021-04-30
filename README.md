@@ -1,3 +1,9 @@
+<img src="images/print-screen-1.jpg">
+<img src="images/print-screen-2.jpg">
+<img src="images/print-screen-3.jpg">
+
+<hr />
+
 ### Exercício Música favorita
 Você deverá criar uma página com no minímo os seguintes elementos:
 
@@ -19,3 +25,4 @@ Você deverá criar 2 arquivos de estilo diferentes mudando pelo menos os seguin
 - A cor ou imagem de fundo do body
 
 Seja criativo e não limite-se aos estilos obrigatórios, tente mudar o estilo da lista, dos links, etc.
+
